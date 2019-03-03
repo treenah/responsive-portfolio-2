@@ -1,5 +1,5 @@
 # responsive-portfolio-2
-### Assignment One Instructions (Bootstrap)
+### Assignment Two Instructions (No Bootstrap)
 
 1. Inside your `Bootstrap-Portfolio` repo, create `index.html`, `portfolio.html` and `contact.html`.
 
